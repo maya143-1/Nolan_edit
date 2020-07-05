@@ -1,12 +1,9 @@
 #Nolan_Userbot
 
-<a href="https://t.me/IamArjun078"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/IamArjun078"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
 ## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IamArjun078/ArjunUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maya143-1/Nolan_edit)
 
 ## GET STRING SESSION FROM REPL RUN 
 
@@ -16,7 +13,7 @@
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/IamArjun078/ArjunUserbot/
+git clone https://github.com/maya143-1/Nolan_edit/
 cd Userbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
